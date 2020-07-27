@@ -24,20 +24,23 @@ No prior knowledge or experience is required.
 2. Have an active Instagram account (optional to the ones that want to share their work).  
 
 ### Vocabulary
-* Augmented reality (AR): overlays of digital content and information onto the physical world — as if they're actually there with you, in your own space. 
+* Augmented Reality (AR): overlays of digital content and information onto the physical world — as if they're actually there with you, in your own space. 
 
 * Visual Programing: a language that allows the programmer to create programs by manipulating graphical elements rather than typing textual commands (in Spark AR this part of the interface called the "Patch editor"). 
 
-* 3D scene: all the information (the description of the geometry, the camera and the lights) are contained within a file refered the 3D scene.
+* 3D Scene: all the information (the description of the geometry, the camera and the lights) are contained within a file refered the 3D scene.
 
 * Face Tracking: a computer vision technology that detects and locates the presence of a human face in a digital image or video.
 
-* Gesture recognition: a type of user interface that allows computers to capture and interpret human gestures as algorithmic commands. 
+* Gesture Recognition: a type of user interface that allows computers to capture and interpret human gestures as algorithmic commands. 
 
-* Foreground-background separation: a segmentation task, where the goal is to split the image into foreground and background. In semi-interactive settings (like AR filters), the developer/user marks some pixels as “foreground”, a few others as “background”, and it's up to the algorithm to classify the rest of the pixels.
+* Foreground-Background Separation: a segmentation task, where the goal is to split the image into foreground and background. In semi-interactive settings (like AR filters), the developer/user marks some pixels as “foreground”, a few others as “background”, and it's up to the algorithm to classify the rest of the pixels.
 
 ## Resources From Class
 tbd
+
+* [Facebook community page](https://www.facebook.com/groups/SparkARcommunity/)
+* [Website documentation](https://sparkar.facebook.com/ar-studio/learn/)
 
 ### Takeaways & Next Steps
 Can you make now your own filter and share with us?<br/>
