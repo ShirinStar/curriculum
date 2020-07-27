@@ -7,7 +7,7 @@ by [shirin anlen](https://shirin.works).
 - Is this technology safe?
 
 ### Introduction
-Social media has made augmented reality significantly more accessible with the introduction of face filters and interactive effects. Anyone now can create and share their own face filter with the world. This adds another layer to the way we engage in social media, the stories we create, the way we want to see ourselves and the identity we design to it. 
+Social media has made augmented reality significantly more accessible with the introduction of face filters and interactive effects. Anyone can now create and share their own face filter with the world. This adds another layer to the way we engage in social media, the stories we create, the way we want to see ourselves, and the identity we design to it.
 
 ### Outcomes & Goals
 In this class, you will learn how to use [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/) to program AR effects like face tracking and gesture recognition to create custom filters for Facebook and Instagram. By the end, you’ll be able to publish and share the new effects with your friends on social media. 
@@ -15,12 +15,12 @@ In this class, you will learn how to use [Spark AR Studio](https://sparkar.faceb
 ### Pacing / Duration
 * this might change a bit. 
 
-° 10min: Introduction to AR filters and inspirations. 
-° 10min: Getting to know Spark AR and exploring the interface.
-° 45min: Understanding face tracker concept as we develop our first effect while working with the patch editor, animations and gesture recognition.
-° 20min: Developing a second effect as we explore background segmentation and imported effects.
-° 5min: Export to social media.
-° 10min: Discussion and qestions.
+° 10min: Introduction to AR filters and inspirations. <br/>
+° 10min: Getting to know Spark AR and exploring the interface.<br/>
+° 45min: Understanding face tracker concept as we develop our first effect while working with the patch editor, animations and gesture recognition.<br/>
+° 20min: Developing a second effect as we explore background segmentation and imported effects.<br/>
+° 5min: Export to social media.<br/>
+° 10min: Discussion and qestions.<br/>
 
 ### Materials Needed
 No prior knowledge or experience is required.
@@ -45,17 +45,17 @@ No prior knowledge or experience is required.
 tbd
 
 ### Takeaways & Next Steps
-Can you make now your own filter and share with us?
+Can you make now your own filter and share with us?<br/>
 A challenge: let's create the same filters as a physical masks! 
 
 ## Post Session
 
 ### Implementation Guidance &  Teaching Reflection
-***Questions from Class***
+***Questions from Class***<br/>
 tbd
 
 ### References
 tbd
 
-
+<br/><br/>
 Thanks for [Eyebeam](http://www.eyebeam.org) for the curriculum tamplate.
