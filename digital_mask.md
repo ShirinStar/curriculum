@@ -14,8 +14,7 @@ Social media has made augmented reality significantly more accessible with the i
 ### Outcomes & Goals
 In this class, you will learn how to use [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/) to program AR effects like face tracking and gesture recognition to create custom filters for Facebook and Instagram. By the end, you’ll be able to publish and share the new effects with your friends on social media. 
 
-### Pacing / Duration
-***this might change a bit.*** 
+### Pacing / Duration 
 tbd
 
 ### Materials Needed
