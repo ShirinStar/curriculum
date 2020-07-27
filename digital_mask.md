@@ -1,7 +1,7 @@
 ## Digital masks - SparkAR
 by [shirin anlen](https://shirin.works).
 
-***as the class will take place online please feel free to interupt me at any point and ask questions***
+***as the class will take place online, please feel free to interrupt me at any point and ask questions***
 
 ### Essential Questions
 - Why do we have the need to cover ourselves? Or maybe it is the need to show ourselves? 
