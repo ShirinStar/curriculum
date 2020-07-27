@@ -58,5 +58,4 @@ tbd
 tbd
 
 
-////
 Thanks for [Eyebeam](http://www.eyebeam.org) for the curriculum tamplate.
