@@ -1,6 +1,8 @@
 ## Digital masks - SparkAR
 by [shirin anlen](https://shirin.works).
 
+***as the class will take place online please feel free to interupt me at any point and ask questions***
+
 ### Essential Questions
 - Why do we have the need to cover ourselves? Or maybe it is the need to show ourselves? 
 - How can we use AR filters to express ourselves in a new way? 
@@ -14,13 +16,7 @@ In this class, you will learn how to use [Spark AR Studio](https://sparkar.faceb
 
 ### Pacing / Duration
 ***this might change a bit.*** 
-
-° 10min: Introduction to AR filters and inspirations. <br/>
-° 10min: Getting to know Spark AR and exploring the interface.<br/>
-° 45min: Understanding face tracker concept as we develop our first effect while working with the patch editor, animations and gesture recognition.<br/>
-° 20min: Developing a second effect as we explore background segmentation and imported effects.<br/>
-° 5min: Export to social media.<br/>
-° 10min: Discussion and qestions.<br/>
+tbd
 
 ### Materials Needed
 No prior knowledge or experience is required.
