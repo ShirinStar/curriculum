@@ -60,7 +60,7 @@ tbd
 ### References
 tbd
 
-!(https://i.imgur.com/f4S3I9x.png)
+![](https://i.imgur.com/f4S3I9x.png)
 
 <br/><br/>
 Thanks for [Eyebeam](http://www.eyebeam.org) for the curriculum tamplate.
