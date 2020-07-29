@@ -10,7 +10,7 @@ by [shirin anlen](https://shirin.works).
 Social media has made augmented reality significantly more accessible with the introduction of face filters and interactive effects. Anyone can now create and share their own filter with the world. This adds another layer to the way we engage in social media, the stories we create, the way we want to see ourselves, and the identity we design.
 
 ### Outcomes & Goals
-In this session, you will learn how to use [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/) to program AR effects like face tracking and gesture recognition to create custom filters for Facebook and Instagram. By the end you will be familiar with the Spark AR interface, ways to import custume materials, operate transitions, triger interactions and export to social media.     
+In this session, you will learn how to use [Spark AR Studio](https://sparkar.facebook.com/ar-studio/download/) to program AR effects like face tracking and gesture recognition to create custom filters for Facebook and Instagram. By the end, you will be familiar with the Spark AR interface, ways to import custume materials, operate transitions, triger interactions and export to social media.     
 
 Duration: 90 min
 
@@ -61,6 +61,9 @@ tbd
 tbd
 
 ![](https://i.imgur.com/4Xo84rB.png)
+
+
+Have a question? contact me here: [shirinanlen@gmail.com](mailto:shirinanlen@gmail.com)
 
 <br/><br/>
 Thanks for [Eyebeam](http://www.eyebeam.org) for the curriculum tamplate.
